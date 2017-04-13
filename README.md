@@ -10,3 +10,6 @@ Normally, a plugin created for general distribution would utilize OOP best pract
 
 ## Installation
 - We probably don't need to cover how to install WordPress plugins. ;)
+
+## Walkthrough
+I made a short video walking through the plugin and explaining the thought process behind some of the decisions I made. The video is included in the repo, but here is a link to view if online if you prefer: https://cl.ly/2f1M0d2c0i3I.
